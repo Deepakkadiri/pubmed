@@ -13,7 +13,7 @@ This Python script fetches PubMed paper details based on a given query and extra
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - `requests` library
 
 You can install the required libraries using `pip`:
